@@ -1,2 +1,2 @@
 # Ruby-Practice
-Experimenting with Ruby
+Just a fun repo to experiment with Ruby Programming
